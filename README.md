@@ -8,4 +8,4 @@ bower install kinvey-angular --save
 
 ### Need to mock it?
 We've mocked Kinvey's Angular library for unit testing, too.
-[Angular Kinvey Mock](https://github.com/GravityJack/angular-kinvey-mock/)
+[Kinvey Angular Mock](https://github.com/GravityJack/kinvey-angular-mock/)
