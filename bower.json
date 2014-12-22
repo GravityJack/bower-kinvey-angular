@@ -6,7 +6,7 @@
     "Kinvey"
   ],
   "description": "Official Kinvey AngularJS library.",
-  "main": "kinvey-angular.min.js",
+  "main": "kinvey-angular.js",
   "keywords": [
     "Kinvey",
     "Angular",
